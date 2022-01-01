@@ -16,7 +16,7 @@ You can invite bot music: `./zone-id.my.id`
 <h2><p align="center"><a href="https://rasyidmf.com/Users/?id=1598">🦊CTF: Capture The Flag Scoreboard Rank🦊</a></p></h>
 <p align="center"<a href="https://github.com/penucuriCode">
 <br>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=penucuriCode&column=8&theme=gruvbox&no-frame=true"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=GarudaID&column=8&theme=gruvbox&no-frame=true"/>
 </a></p>
 <p align="center">
 	<b>Languages & Frameworks</b>
