@@ -6,7 +6,7 @@
 
 ---  
 You can contact me through my discord user: `./Kaixin#5925` <br>
-You can invite bot music: `./zone-id.my.id`
+You can invite bot music: `./zone-id.my.id`<br>
 Note: my main account github has been flagged `PenucuriCode` idunno why?
 
   </h1>
