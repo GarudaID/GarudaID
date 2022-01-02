@@ -1,6 +1,6 @@
 <p align="center"> 
   Count Visit my Github :<br>
-  <img src="https://profile-counter.glitch.me/penucuriCode/count.svg" />
+  <img src="https://profile-counter.glitch.me/GarudaID/count.svg" />
 </p>
 <p>&nbsp;</p>    
 
