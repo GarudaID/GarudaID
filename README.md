@@ -1,5 +1,5 @@
 <p align="center"> 
-	<img src="https://cdn.discordapp.com/attachments/907202627329220618/932198839773974608/Terima_kasih_sudah_menonton.gif" width="599" height="299">
+	<img src="https://github.com/GarudaID/GarudaID/blob/main/kaixin_banner.gif" width="599" height="299">
 </p>
 <p align="center"> 
   Count Visit my Github :<br>
