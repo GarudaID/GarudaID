@@ -18,6 +18,7 @@ Note: my main account github has been flagged `PenucuriCode` idunno why?
     <img src="https://lanyard-profile-readme.vercel.app/api/447411230098063362"/>
      </a>
 </p>
+<h2><p align="center"><a href="https://opensea.io/KaiSmoke">🦊NFT Collection OpenSea🦊</a></p></h>
 <h2><p align="center"><a href="https://rasyidmf.com/Users/?id=1598">🦊CTF: Capture The Flag Scoreboard Rank🦊</a></p></h>
 <p align="center"<a href="https://github.com/penucuriCode">
 <br>
