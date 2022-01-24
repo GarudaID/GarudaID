@@ -14,6 +14,8 @@ Note: my main account github has been flagged `PenucuriCode` idunno why?
 
   </h1>
 <p align="center"><br>
+	<a href="https://top.gg/bot/904032472755499099">
+  <img src="https://top.gg/api/widget/904032472755499099.svg">
   <a href="https://github.com/penucuriCode">
     <img src="https://lanyard-profile-readme.vercel.app/api/447411230098063362"/>
      </a>
