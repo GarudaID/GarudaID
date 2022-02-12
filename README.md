@@ -1,4 +1,5 @@
 <p align="center"> 
+	<img src="https://github.com/GarudaID/GarudaID/blob/main/standard.gif">
 	<img src="https://github.com/GarudaID/GarudaID/blob/main/kaixin_banner.gif" width="599" height="299">
 </p>
 <p align="center"> 
