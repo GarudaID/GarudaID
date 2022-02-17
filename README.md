@@ -1,47 +1,59 @@
-<p align="center"> 
-	<img src="https://github.com/GarudaID/GarudaID/blob/main/standard.gif">
-	<img src="https://github.com/GarudaID/GarudaID/blob/main/kaixin_banner.gif" width="599" height="299">
-</p>
-<p align="center"> 
-  Count Visit my Github :<br>
-  <img src="https://profile-counter.glitch.me/GarudaID/count.svg" />
-</p>
-<p>&nbsp;</p>    
+<!-- ## Hi! I'm Kaixin or Near 🖐️ -->
 
----  
-You can contact me through my discord user: `./Kaixin#5925` <br>
-You can invite bot music: `./zone-id.my.id`<br>
-Note: my main account github has been flagged `PenucuriCode` idunno why?
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48685463?v=4">  
 
-  </h1>
-<p align="center"><br>
-	<a href="https://top.gg/bot/904032472755499099">
-  <img src="https://top.gg/api/widget/904032472755499099.svg">
+## <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm Kaixin or Near
+> This is the place where I opensource stuff and break things :rofl:<br>
+[![Discord](https://img.shields.io/discord/853258897321361427?label=chat&logo=discord&logoColor=cyan&style=flat-square)](https://discord.gg/kairj)
+[![GitHub followers](https://img.shields.io/github/followers/GarudaID?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/GarudaID?tab=followers)
+[![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=website&logo=firefox&logoColor=green&style=flat-square&up_color=green&up_message=online&url=zone-id.my.id)](https://zone-id.my.id/)
+<br><br><br>
+
+---
+
+<a href="https://discord.com/users/544164729354977282">
+ <img src="https://lanyard-profile-readme.vercel.app/api/447411230098063362" align="right" />
 </a>
-  <a href="https://github.com/penucuriCode">
-    <img src="https://lanyard-profile-readme.vercel.app/api/447411230098063362"/>
-     </a>
-</p>
-<h2><p align="center"><a href="https://opensea.io/KaiSmoke">🦊NFT Collection OpenSea🦊</a></p></h>
-<h2><p align="center"><a href="https://rasyidmf.com/Users/?id=1598">🦊CTF: Capture The Flag Scoreboard Rank🦊</a></p></h>
-<p align="center"<a href="https://github.com/penucuriCode">
-<br>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=GarudaID&column=8&theme=gruvbox&no-frame=true"/>
-</a></p>
-<p align="center">
-	<b>Languages & Frameworks</b>
-	<br>
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
-	<br><br>
-  <p align="center"<a href="https://zone-id.my.id/" target="_blank"><img src="https://github.com/SourCode-Z/Nhentai-Reader/blob/main/img/github-contribution-grid-snake.svg" target="_blank"></a></p>
-</div>
-<p>&nbsp;</p>    
 
----  
+<p align="left">
+ <a href="https://discord.com/users/447411230098063362" target="_blank">
+  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/discord.svg" alt="Discord" width="32" align="center"/>
+ </a>
+ <a href="mailto:baharudinkorret@gmail.com" target="_blank">
+  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/gmail.svg" alt="Email" width="32" align="center"/>
+ </a>
+ <a href="https://www.youtube.com/channel/UCB3gIvJ7isyfzlaq8QTcICw" target="_blank">
+  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/youtube.svg" alt="YouTube" width="32" align="center"/>
+ </a>
+ <!--<a href="https://wakatime.com/@Majonezexe" target="_blank">
+  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/wakatime.svg" alt="Wakatime" width="32" align="center"/>
+ </a>-->
+</p>
+
+### 💪 Experience & History
+I'm coding for over 3 years. I started my journey in late 2018 / early 2019.<br>
+My first project was a simple portofolio made with HTML, CSS and Javascript (probably January 2019).<br>
+In the beginning I learned HTML and CSS to build websites, I also learned website design and basic JS.<br>
+In March 2020 I started learning Node.JS<br>
+In January 2019 I started join project website business [Work on Back-End Developer](https://www.jangkargroups.co.id/) <br>
+Over these years I have learned
+ * Node.js, Express.js, JavaScript, CSS (Advanced)
+ * PHP, Python, Bash (Medium/Low)
+ * And many other languages and libraries!
+
+### 📊 Stats
+
+<a href="https://github.com/GarudaID/GarudaID">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarudaID&title_color=ffffff&text_color=c9cacc&hide=html&icon_color=2bbc8a&bg_color=161b22&layout=compact&hide_border=true"/>
+</a>
+<br><br>
+
+#### 📊 Weekly work stats 
+
+```text
+💬 Programming Languages: 
+JavaScript               18 hrs 33 mins      ██████████████████░░░░░░░   73.6% 
+Other                    3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78% 
+JSON                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+HTML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4% 
+Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
