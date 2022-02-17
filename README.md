@@ -48,6 +48,13 @@ Over these years I have learned
 </a>
 <br><br>
 
+### 📊 Bot Kaixin
+
+<a href="https://top.gg/bot/904032472755499099">
+  <img src="https://top.gg/api/widget/904032472755499099.svg"/>
+</a>
+<br><br>
+
 #### 📊 Weekly work stats 
 
 ```text
