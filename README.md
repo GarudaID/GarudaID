@@ -6,7 +6,6 @@
 > This is the place where I opensource stuff and break things :rofl:<br>
 [![Discord](https://img.shields.io/discord/853258897321361427?label=chat&logo=discord&logoColor=cyan&style=flat-square)](https://discord.gg/kairj)
 [![GitHub followers](https://img.shields.io/github/followers/GarudaID?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/GarudaID?tab=followers)
-[![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=website&logo=firefox&logoColor=green&style=flat-square&up_color=green&up_message=online&url=zone-id.my.id)](https://zone-id.my.id/)
 <br><br><br>
 
 ---
