@@ -4,7 +4,7 @@
 
 ## <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm Kaixin or Near
 > This is the place where I opensource stuff and break things :rofl:<br>
-[![Discord](https://img.shields.io/discord/195265653425307649?label=chat&logo=discord&logoColor=cyan&style=flat-square)](https://discord.gg/kairj)
+[![Discord](https://img.shields.io/discord/195265653425307649?label=chat&logo=discord&logoColor=cyan&style=flat-square)](https://discord.gg/hive)
 [![GitHub followers](https://img.shields.io/github/followers/GarudaID?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/GarudaID?tab=followers)
 <br><br><br>
 
