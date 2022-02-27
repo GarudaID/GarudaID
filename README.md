@@ -6,6 +6,7 @@
 > This is the place where I opensource stuff and break things :rofl:<br>
 [![Discord](https://img.shields.io/discord/195265653425307649?label=chat&logo=discord&logoColor=cyan&style=flat-square)](https://discord.gg/hive)
 [![GitHub followers](https://img.shields.io/github/followers/GarudaID?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/GarudaID?tab=followers)
+>![Visitor Count](https://camo.githubusercontent.com/b69e969500158d8cef615ee33731cad5633144db5a13ba089fa5f9c102146d29/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d76656e61787974)
 <br><br><br>
 
 ---
