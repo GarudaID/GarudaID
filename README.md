@@ -48,10 +48,13 @@ Over these years I have learned
 </a>
 <br><br>
 
-### 📊 Bot Kaixin
+### 📊 Bot Kaixin / Musical
 
 <a href="https://top.gg/bot/904032472755499099">
   <img src="https://top.gg/api/widget/904032472755499099.svg"/>
+</a>
+<a href="https://top.gg/bot/946985307826450433">
+  <img src="https://top.gg/api/widget/946985307826450433.svg">
 </a>
 <br><br>
 
