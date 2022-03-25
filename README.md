@@ -1,5 +1,5 @@
 <a href="https://music.zone-id.my.id/"><img align="left" src="https://cdn.discordapp.com/attachments/907202627329220618/956830589489643560/Desain_tanpa_judul.png" alt="chrlwv.tech" width="298" /><a/>
-
+           
 ```csharp
 bughunternear@gmail.coom
 -------------------------
@@ -14,6 +14,8 @@ Learning: C#, C++, and much
 Hobbies: Coding, Gaming, Music, Workout, Driving
 Discord: KaiXin#5925
 ```
+![Visitor Count](https://camo.githubusercontent.com/b69e969500158d8cef615ee33731cad5633144db5a13ba089fa5f9c102146d29/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d76656e61787974)
+<br>
 
 ### 📊 Stats
 
