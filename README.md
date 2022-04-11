@@ -1,4 +1,4 @@
-<a href="https://music.zone-id.my.id/"><img align="left" src="https://cdn.discordapp.com/attachments/907202627329220618/956830589489643560/Desain_tanpa_judul.png" alt="chrlwv.tech" width="298" /><a/>
+<a href="https://music.zone-id.my.id/"><img align="left" src="https://cdn.discordapp.com/attachments/937263015433211934/963044862104588288/siapkan-tenaga-ahli-melalui-cyber-jawara.jpg" alt="chrlwv.tech" width="450" /><a/>
            
 ```csharp
 bughunternear@gmail.coom
