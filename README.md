@@ -1,4 +1,4 @@
-<a href="https://music.zone-id.my.id/"><img align="left" src="https://cdn.discordapp.com/attachments/937263015433211934/963044862104588288/siapkan-tenaga-ahli-melalui-cyber-jawara.jpg" alt="chrlwv.tech" width="450" /><a/>
+<a href="https://kaixin.my.id/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CIA_logo_%282021%29.svg/2048px-CIA_logo_%282021%29.svg.png" alt="chrlwv.tech" width="250" /><a/>
            
 ```csharp
 bughunternear@gmail.coom
