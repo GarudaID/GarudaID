@@ -19,14 +19,14 @@ If my contributions and my packages are helpful for you, <a href="https://www.pa
 
 ### 📊 Stats
 
-<a href="https://github.com/GarudaID/GarudaID">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarudaID&title_color=ffffff&text_color=c9cacc&hide=html&icon_color=2bbc8a&bg_color=161b22&layout=compact&hide_border=true"/>
-</a>
  <a href="https://top.gg/bot/904032472755499099">
   <img src="https://top.gg/api/widget/904032472755499099.svg"/>
 </a>
  <a href="https://top.gg/bot/946985307826450433">
   <img src="https://top.gg/api/widget/946985307826450433.svg">
+</a>
+<a href="https://github.com/GarudaID/GarudaID">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarudaID&title_color=ffffff&text_color=c9cacc&hide=html&icon_color=2bbc8a&bg_color=161b22&layout=compact&hide_border=true"/>
 </a>
 <br><br>
 
