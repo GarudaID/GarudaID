@@ -1,4 +1,10 @@
 <a href="https://kaixin.my.id" target="_blank"> <img src="https://github.com/GarudaID/GarudaID/blob/main/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3835333334373938333633393035323331382f3835373936323839383731383732303033302f5264696d6f735f4769746875622e706e67.png" alt="GarudaID Github"/></a>
+<br>
+<p align=center>
+<a href="https://discord.com/users/447411230098063362">
+<img src="https://discord.c99.nl/widget/theme-4/447411230098063362.png" width=60%>
+</a>
+  </p>
            
 ```csharp
 OS        :   Microsoft Windows 10 Pro
