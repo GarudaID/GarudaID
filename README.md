@@ -18,8 +18,8 @@ Discord   :   KaiXin#5925
 ![Visitor Count](https://camo.githubusercontent.com/b69e969500158d8cef615ee33731cad5633144db5a13ba089fa5f9c102146d29/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d76656e61787974)
 <br>
 
-✔️・**Latest Contributors Microsoft [WebDev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/translations/README.id.md)**<br>
-📩・**Want to be friends? Add KaiXin#5925 on discord or mail [bughunternear@gmail.com](mailto:bughunternear@gmail.com)**<br>
+✔️・**Latest Contributors to Microsoft [WebDev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/translations/README.id.md)**<br>
+📩・**Want to be friends? Add KaiXin#5925 on discord or mail [bughunternear@gmail.com](mailto:syahniarb1@gmail.com)**<br>
 🌐・**Website: [https://kaixin.my.id](https://kaixin.my.id)**<br>
 If my contributions and my packages are helpful for you, <a href="https://www.paypal.com/paypalme/syahniarb">please donate to me</a><br>
 
