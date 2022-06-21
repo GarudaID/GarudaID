@@ -19,7 +19,7 @@ Discord   :   KaiXin#5925
 <br>
 
 ✔️・**Latest Contributors to Microsoft [WebDev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/translations/README.id.md)**<br>
-📩・**Want to be friends? Add KaiXin#5925 on discord or mail [bughunternear@gmail.com](mailto:syahniarb1@gmail.com)**<br>
+📩・**Want to be friends? Add KaiXin#5925 on discord or mail [syahniarb1@gmail.com](mailto:syahniarb1@gmail.com)**<br>
 🌐・**Website: [https://kaixin.my.id](https://kaixin.my.id)**<br>
 If my contributions and my packages are helpful for you, <a href="https://www.paypal.com/paypalme/syahniarb">please donate to me</a><br>
 
